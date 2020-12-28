@@ -5,6 +5,7 @@ end
 
 def actor
 	actor=Hash["name" => "Dwayne The Rock Johnson"]
+	actor
 end
 
 def monopoly
